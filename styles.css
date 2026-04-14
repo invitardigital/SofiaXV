@@ -575,3 +575,66 @@ body {
 
 
 
+
+.pase-xv {
+    background: linear-gradient(145deg, #ffffff 0%, #faf8ff 100%);
+    border-radius: 11px;
+    padding: 20px;
+    margin: 0 auto;
+    font-family: serif;
+    max-width: 500px;
+}
+.encabezado-xv {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.titulo-principal {
+    font-size: 3em;
+    font-weight: 700;
+    background: linear-gradient(45deg, #d4af37, #ffd700, #b8860b);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 10px;
+}
+.subtitulo-inv {
+    font-size: 1.2em;
+    color: #8b4b85;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.contenido-pase {
+    text-align: center;
+}
+.nombre-festejada {
+    font-size: 2.5em;
+    color: #d4af37;
+    margin: 20px 0;
+    font-weight: 700;
+}
+.info-evento {
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 15px;
+    padding: 25px 0px 25px 0px;
+    border: 2px solid rgba(212, 175, 55, 0.3);
+}
+.item-detalle {
+    font-size: 1.1em;
+    color: #333;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0px;
+}
+.etiqueta-dato {
+    font-weight: 700;
+    color: #8b4b85;
+    min-width: 80px;
+}
+.mensaje-inv {
+    font-style: italic;
+    color: #8b4b85;
+    font-size: 1.1em;
+    margin-top: 25px;
+    line-height: 1.6;
+}
